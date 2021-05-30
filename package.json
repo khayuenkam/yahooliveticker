@@ -12,6 +12,6 @@
   "dependencies": {
     "isomorphic-ws": "^4.0.1",
     "protobufjs": "^6.9.0",
-    "ws": "^7.3.1"
+    "ws": "^7.4.6"
   }
 }
